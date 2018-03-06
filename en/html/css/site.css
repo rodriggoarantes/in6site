@@ -1,0 +1,79 @@
+.brand_ img {
+	width: 180px;
+}
+
+
+.page-header1 {
+	background-color: #D1F2CC; 
+	border-color: #ACE8A4;
+}
+.page-header1 h2 {
+	color: #4D8D3E;
+}
+
+.page-header1 h2 small {
+	color: #27751D;
+}
+
+
+.portfolio-item span.portfolio-box-img {
+	text-align: center; 
+	display: block; 
+	margin: 5px;
+}
+
+.portfolio-item span.portfolio-box-img > img {
+	height: 250px;
+	width: 250px;
+}
+
+
+.portfolio-item .portfolio-item-meta { 
+	background: none repeat scroll 0 0 #EFF8E4;
+}
+
+.portfolio-item .portfolio-item-meta > a {
+	font-size: 15px;
+}
+
+
+.portfolio-item span.portfolio-item-meta {
+	height: 65px;
+}
+
+
+.portfolio-item .box-em-breve {
+	display: block;
+	position: relative;
+	margin: 0px auto;
+	width: 250px;
+	height: 250px;
+}
+
+.box-em-breve .sticker-em-breve {
+	background-image: url(../img/portfolio/sticker_breve.png);
+	width: 128px;
+	height: 115px;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
+
+div.aplicativos {
+	position: relative;
+	float: left;
+	width: 70%;
+	display: block;
+	margin: 5px auto;
+}
+
+div.aplicativos a {
+	float: left;
+	display: block;
+	margin: 10px;
+}
+
+.font-12 { 
+	font-size: 14px;
+	line-height: 24px;
+}
